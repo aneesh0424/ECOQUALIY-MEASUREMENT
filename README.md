@@ -53,19 +53,6 @@ The system consists of:
 - Implementing **machine learning** for anomaly detection.
 - Expanding support for **multiple sensor nodes** in a distributed environment.
 
-## Repository Structure
-```
-📂 Ecoquality-Measurement
- ├── 📁 Arduino_Code/        # Arduino sketches for data acquisition
- ├── 📁 NodeMCU_Code/        # NodeMCU scripts for cloud communication
- ├── 📁 Mobile_App/         # Source files for the mobile application
- ├── 📁 Docs/               # Project documentation and reports
- ├── README.md              # Project overview and setup instructions
-```
-
-## Contributions
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
