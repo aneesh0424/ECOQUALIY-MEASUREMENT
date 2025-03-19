@@ -9,12 +9,12 @@
 #include <Wire.h>
 
 // Firebase and Wi-Fi credentials
-#define WIFI_SSID "Komal"                          
-#define WIFI_PASSWORD "8885849886"                  
-#define DATABASE_URL "eco-quality-checker-65190-default-rtdb.firebaseio.com/"    
-#define API_KEY "AIzaSyCW7Y2weDYt4glTMsQ1OzabWpavLlRf1PU"               
-#define USER_EMAIL "aneeshvajrapu@gmail.com"            
-#define USER_PASSWORD "aneesh2468"               
+#define WIFI_SSID "wifi name"                          
+#define WIFI_PASSWORD "wifi password"                  
+#define DATABASE_URL "firebase link"
+#define API_KEY "your API key"               
+#define USER_EMAIL "your gmail"            
+#define USER_PASSWORD "your password"               
 
 FirebaseData fbdo;
 FirebaseAuth auth;
